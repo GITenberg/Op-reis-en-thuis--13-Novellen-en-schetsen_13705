@@ -1,0 +1,36 @@
+_repo: Op-reis-en-thuis--13-Novellen-en-schetsen_13705
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 13705-h/images/cover_thumb.jpg
+creator:
+  author:
+    agent_name: Maurik, Justus van
+    aliases:
+    - Van Maurik, Justus
+    - Maurik, Justus van, jr
+    birthdate: 1846
+    deathdate: 1904
+    gutenberg_agent_id: '4468'
+    url: http://www.gutenberg.org/2009/agents/4468
+    wikipedia: http://nl.wikipedia.org/wiki/Justus_van_Maurik_jr.
+description: ''
+gutenberg_issued: '2004-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13705'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch fiction'
+- !lcc 'PT'
+- !lcsh 'Short stories, Dutch'
+tableOfContents: Met "De Amalia" van Genua naar Padang -- Sint-Nicolaasavond aan boord
+  -- Een toewan en zijn inventarisstuk -- Een hut bij de kinderkamer -- Muller's buste
+  -- Een lauwerkrans -- Een regenachtige dag te Wiesbaden -- Een warme dag te Wiesbaden
+  -- De laatste der Oempah's -- Voor 't loket--Hollandsche spoor -- Vroeg rijpe jeugd
+  -- Een landgenoot.
+title: 'Op reis en thuis: Novellen en schetsen'
+url: http://www.gutenberg.org/ebooks/13705
